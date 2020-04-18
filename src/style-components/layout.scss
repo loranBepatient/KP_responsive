@@ -3,18 +3,14 @@ body {
   font-family: sans-serif;
 }
 
-.intro {
-  background: var(--dark);
-  color: var(--light);
-  padding: 50px 0;
-}
-
 .container {
   width: 80%;
   max-width: 750px;
   margin: 0 auto;
 }
 
-.intro-content {
-  width: 50%;
+.intro {
+  background: var(--dark);
+  color: var(--light);
+  padding: 148px 0;
 }

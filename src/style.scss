@@ -1,8 +1,5 @@
 @import "./style-components/reset.scss";
 @import "./style-components/colors.scss";
 @import "./style-components/layout.scss";
-
-body {
-  margin: 0;
-  font-family: sans-serif;
-}
+@import "./style-components/typography.scss";
+@import "./style-components/buttons.scss";
